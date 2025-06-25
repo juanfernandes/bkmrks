@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "React Documentation",
+    "url": "https://react.dev",
+    "category": "Development",
+    "description": "Official React documentation and guides",
+    "dateAdded": "2025-06-04"
+  },
+  {
+    "id": 2,
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "category": "Development",
+    "description": "Web development resources and references",
+    "dateAdded": "2025-06-04"
+  },
+  {
+    "id": 3,
+    "title": "GitHub",
+    "url": "https://github.com",
+    "category": "Tools",
+    "description": "Code hosting and collaboration platform",
+    "dateAdded": "2025-06-04"
+  },
+  {
+    "id": 1749021176283,
+    "title": "HTML Recipes",
+    "url": "https://htmlrecipes.dev/",
+    "category": "Development",
+    "description": "",
+    "dateAdded": "2025-06-04"
+  }
+]
