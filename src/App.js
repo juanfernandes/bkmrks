@@ -1,5 +1,5 @@
 // App.js
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useCallback } from 'react'
 import { Search, Plus, Edit3, Trash2, ExternalLink, Tag, Bookmark, Download, Upload, RotateCcw } from 'lucide-react'
 import './App.css'
 
