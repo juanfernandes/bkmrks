@@ -1,6 +1,6 @@
 {
-  "framework": "create-react-app",
-  "buildCommand": "CI='' npm run build",
+  "framework": null,
   "installCommand": "npm install",
-  "outputDirectory": "build"
+  "buildCommand": "CI='' npm run build && cp -r build/* public/",
+  "outputDirectory": "public"
 }
