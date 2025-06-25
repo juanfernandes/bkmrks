@@ -27,7 +27,7 @@
     "server": "node server.js",
     "server:dev": "nodemon server.js",
     "dev": "concurrently \"npm run server:dev\" \"npm start\"",
-    "start:prod": "npm run build && concurrently \"npm run server\" \"serve -s build -l 3000\""
+    "prod": "npm run build"
   },
   "eslintConfig": {
     "extends": [
